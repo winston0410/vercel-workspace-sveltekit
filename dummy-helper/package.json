@@ -1,0 +1,5 @@
+{
+    "name": "dummy-helper",
+    "private": true,
+    "module": "./index.js"
+}

@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": [
+    "./app",
+    "./dummy-helper"
+  ],
+  "scripts": {
+    "build:vercel": "cd ./app && npm run build"
+  }
+}
