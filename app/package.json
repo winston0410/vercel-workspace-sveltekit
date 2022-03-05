@@ -29,6 +29,6 @@
   },
   "type": "module",
   "dependencies": {
-    "dummy-helper": "file:dummy-helper"
+    "dummy-helper": "file:../dummy-helper"
   }
 }
